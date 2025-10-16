@@ -1,4 +1,4 @@
-# 🕉️ **Mahabharatha: The Pathfinder of Dharma in Kaliyug!**
+# 🕉️ **Mahabharath: The Pathfinder of Dharma in Kaliyug!**
 
 Backend API for a Mahabharata-focused chatbot. Fetches knowledge from **ChromaDB** and generates structured answers using **Perplexity AI**, including character details, lessons, and follow-up questions. Built with **FastAPI** ⚡
 
@@ -39,7 +39,7 @@ Backend API for a Mahabharata-focused chatbot. Fetches knowledge from **ChromaDB
 ```json
 {
   "query": "string",
-  "n_results": 3
+  "n_results": 3 or 4
 }
 ```
 
