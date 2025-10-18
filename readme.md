@@ -124,7 +124,7 @@ CHROMA_CLOUD_TENANT=your_chroma_tenant_id
 ### 4. Run the FastAPI server
 
 ```bash
-uvicorn main:app --reload
+uvicorn main:app 
 ```
 > _**🚀 The server will start at http://127.0.0.1:8000 and is ready to answer divine queries! 🕉️**_
 
