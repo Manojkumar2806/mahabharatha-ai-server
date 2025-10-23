@@ -20,7 +20,7 @@ Backend API and Server for a Mahabharata-focused chatbot. Fetches knowledge from
 
 ## 🛠 Technologies Used
 
-* **FastAPI** – Python framework for building APIs.
+* **FastAPI** – Python framework for building aysnc APIs.
 * **ChromaDB** – Cloud-based vector database for storing Mahabharata knowledge.
 * **Perplexity API** – AI-powered question answering.
 * **Python** – Backend language.
